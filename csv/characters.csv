@@ -1,3 +1,3 @@
-character_id,name,atk,def
-1,chara1,100,100
-2,chara2,150,80
+character_id,name,atk,def,hp
+1,chara1,100,100,100
+2,chara2,150,80,120
